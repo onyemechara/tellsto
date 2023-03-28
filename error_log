@@ -1,0 +1,11 @@
+[26-Mar-2023 15:41:07 America/New_York] PHP Notice:  Undefined variable: update in /home/acecqxjr/public_html/story/logic.php on line 126
+[26-Mar-2023 15:41:07 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/acecqxjr/public_html/story/logic.php on line 126
+[26-Mar-2023 15:44:20 America/New_York] PHP Notice:  Undefined variable: siteurl in /home/acecqxjr/public_html/story/logic.php on line 247
+[26-Mar-2023 15:44:20 America/New_York] PHP Notice:  Undefined variable: adminemail in /home/acecqxjr/public_html/story/logic.php on line 260
+[26-Mar-2023 15:45:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/acecqxjr/public_html/story/logic.php on line 99
+[26-Mar-2023 15:48:17 America/New_York] PHP Notice:  Undefined variable: siteurl in /home/acecqxjr/public_html/story/logic.php on line 247
+[26-Mar-2023 15:48:17 America/New_York] PHP Notice:  Undefined variable: adminemail in /home/acecqxjr/public_html/story/logic.php on line 260
+[26-Mar-2023 15:49:17 America/New_York] PHP Notice:  Undefined variable: update in /home/acecqxjr/public_html/story/logic.php on line 126
+[26-Mar-2023 15:49:17 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/acecqxjr/public_html/story/logic.php on line 126
+[26-Mar-2023 15:49:53 America/New_York] PHP Notice:  Undefined variable: update in /home/acecqxjr/public_html/story/logic.php on line 126
+[26-Mar-2023 15:49:53 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/acecqxjr/public_html/story/logic.php on line 126
